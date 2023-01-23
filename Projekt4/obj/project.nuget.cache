@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uEqZys7tl7nDrRd0C3DOy1bKu1k2LjJigcCfuGfPk9esJ77pn00zeA3OZFxuB5CE/t47+bmxbRPeYzBfhFzWqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wolek\\Downloads\\Projekt4\\Projekt4\\Projekt4\\GK4_Wiktor_Wolek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wolek\\.nuget\\packages\\fastbitmaplib\\2.1.0\\fastbitmaplib.2.1.0.nupkg.sha512",
+    "C:\\Users\\wolek\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\wolek\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\wolek\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512",
+    "C:\\Users\\wolek\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

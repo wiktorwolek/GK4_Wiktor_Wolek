@@ -1,0 +1,76 @@
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.csproj.AssemblyReference.cache
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.MainForm.resources
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.csproj.GenerateResource.cache
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.AssemblyInfoInputs.cache
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.AssemblyInfo.cs
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.csproj.CoreCompileInputs.cache
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.exe
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.deps.json
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.runtimeconfig.json
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.dll
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.pdb
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.dll
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\refint\Projekt4.dll
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.pdb
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.genruntimeconfig.cache
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\ref\Projekt4.dll
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\torus.obj
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\sfera.obj
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.exe
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\sfera.obj
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\torus.obj
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.deps.json
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.runtimeconfig.json
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.dll
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.pdb
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.csproj.AssemblyReference.cache
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.MainForm.resources
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.csproj.GenerateResource.cache
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.GeneratedMSBuildEditorConfig.editorconfig
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.AssemblyInfoInputs.cache
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.AssemblyInfo.cs
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.csproj.CoreCompileInputs.cache
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.dll
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\refint\Projekt4.dll
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.pdb
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.genruntimeconfig.cache
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\ref\Projekt4.dll
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\stozek.obj
+F:\OD_PW\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\cat.obj
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\cat.obj
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\stozek.obj
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\FastBitmapLib.dll
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.csproj.CopyComplete
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\torus2.obj
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\ufo.obj
+D:\OneDrive - Politechnika Warszawska\SEM57\Grafika komp 1\Projekt4\Projekt4\bin\Debug\net6.0-windows\ground.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.exe
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\ground.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\sfera.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\stozek.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\torus.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\torus2.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.deps.json
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.runtimeconfig.json
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.dll
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\Projekt4.pdb
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\FastBitmapLib.dll
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.csproj.AssemblyReference.cache
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.MainForm.resources
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.csproj.GenerateResource.cache
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.AssemblyInfoInputs.cache
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.AssemblyInfo.cs
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.csproj.CoreCompileInputs.cache
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.csproj.CopyComplete
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.dll
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Debug\net6.0-windows\refint\Projekt4.dll
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.pdb
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Debug\net6.0-windows\Projekt4.genruntimeconfig.cache
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Debug\net6.0-windows\ref\Projekt4.dll
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\railroad track.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\train.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\tracktop.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\trackBottom.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Debug\net6.0-windows\mysz.obj

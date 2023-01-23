@@ -1,0 +1,30 @@
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\railroad track.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\GK4_Wiktor_Wolek.exe
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\ground.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\mysz.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\sfera.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\stozek.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\torus.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\torus2.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\trackBottom.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\tracktop.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\train.obj
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\GK4_Wiktor_Wolek.deps.json
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\GK4_Wiktor_Wolek.runtimeconfig.json
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\GK4_Wiktor_Wolek.dll
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\GK4_Wiktor_Wolek.pdb
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\FastBitmapLib.dll
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Release\net6.0-windows\GK4_Wiktor_Wolek.csproj.AssemblyReference.cache
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Release\net6.0-windows\Projekt4.MainForm.resources
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Release\net6.0-windows\GK4_Wiktor_Wolek.csproj.GenerateResource.cache
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Release\net6.0-windows\GK4_Wiktor_Wolek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Release\net6.0-windows\GK4_Wiktor_Wolek.AssemblyInfoInputs.cache
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Release\net6.0-windows\GK4_Wiktor_Wolek.AssemblyInfo.cs
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Release\net6.0-windows\GK4_Wiktor_Wolek.csproj.CoreCompileInputs.cache
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Release\net6.0-windows\GK4_Wiktor_Wolek.csproj.CopyComplete
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Release\net6.0-windows\GK4_Wiktor_Wolek.dll
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Release\net6.0-windows\refint\GK4_Wiktor_Wolek.dll
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Release\net6.0-windows\GK4_Wiktor_Wolek.pdb
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Release\net6.0-windows\GK4_Wiktor_Wolek.genruntimeconfig.cache
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\obj\Release\net6.0-windows\ref\GK4_Wiktor_Wolek.dll
+C:\Users\wolek\Downloads\Projekt4\Projekt4\Projekt4\bin\Release\net6.0-windows\Rato Dorime.mp3

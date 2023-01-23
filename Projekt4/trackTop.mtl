@@ -1,0 +1,101 @@
+# Blender 3.3.1 MTL File: 'None'
+# www.blender.org
+
+newmtl gravel
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.032126 0.032126 0.032126
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd -s 0.5 3 1 C:/Users/wolek/Downloads/4wp1k93sejeo-railroad_track/railroad track/Game/Texturen/own/dirt 2.png
+map_Bump -s 0.5 3 1 -bm 2.000000 C:/Users/wolek/Downloads/4wp1k93sejeo-railroad_track/railroad track/Game/Texturen/own/dirt 2.png
+
+newmtl gravel.003
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.032126 0.032126 0.032126
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd -s 0.5 3 1 C:/Users/wolek/Downloads/4wp1k93sejeo-railroad_track/railroad track/Game/Texturen/own/dirt 2.png
+map_Bump -s 0.5 3 1 -bm 2.000000 C:/Users/wolek/Downloads/4wp1k93sejeo-railroad_track/railroad track/Game/Texturen/own/dirt 2.png
+
+newmtl gravel.004
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.032126 0.032126 0.032126
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd -s 0.5 3 1 C:/Users/wolek/Downloads/4wp1k93sejeo-railroad_track/railroad track/Game/Texturen/own/dirt 2.png
+map_Bump -s 0.5 3 1 -bm 2.000000 C:/Users/wolek/Downloads/4wp1k93sejeo-railroad_track/railroad track/Game/Texturen/own/dirt 2.png
+
+newmtl iron
+Ns 750.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.193809 0.193809 0.193809
+Ks 0.445311 0.445311 0.445311
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -s 1 48 1 -bm 0.250000 C:/Users/wolek/Downloads/4wp1k93sejeo-railroad_track/railroad track/Game/Texturen/own/metall.png
+
+newmtl iron.003
+Ns 750.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.193809 0.193809 0.193809
+Ks 0.445311 0.445311 0.445311
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -s 1 48 1 -bm 0.250000 C:/Users/wolek/Downloads/4wp1k93sejeo-railroad_track/railroad track/Game/Texturen/own/metall.png
+
+newmtl iron.004
+Ns 750.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.193809 0.193809 0.193809
+Ks 0.445311 0.445311 0.445311
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -s 1 48 1 -bm 0.250000 C:/Users/wolek/Downloads/4wp1k93sejeo-railroad_track/railroad track/Game/Texturen/own/metall.png
+
+newmtl wood
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Kd 0.054236 0.030092 0.014164
+Ks 0.101578 0.101578 0.101578
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -s 0.5 1 1 C:/Users/wolek/Downloads/4wp1k93sejeo-railroad_track/railroad track/Game/Texturen/own/holz 2.png
+
+newmtl wood.003
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Kd 0.054236 0.030092 0.014164
+Ks 0.101578 0.101578 0.101578
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -s 0.5 1 1 C:/Users/wolek/Downloads/4wp1k93sejeo-railroad_track/railroad track/Game/Texturen/own/holz 2.png
+
+newmtl wood.004
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Kd 0.054236 0.030092 0.014164
+Ks 0.101578 0.101578 0.101578
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -s 0.5 1 1 C:/Users/wolek/Downloads/4wp1k93sejeo-railroad_track/railroad track/Game/Texturen/own/holz 2.png
